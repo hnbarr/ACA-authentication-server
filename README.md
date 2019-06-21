@@ -11,7 +11,7 @@ NOTE: notice the ":dev". Make sure you run the above command exactly as written
 
 ## Investigation
 
-Look at the functions in `express/controllers`. Notice that all the functions have already been created for you. In this exercise, we will just focus on the routes. 
+Look at the functions in `express/controllers`. Notice that all the functions have already been created for you. In this exercise, we will just focus on the routes.
 
 ### Part 1
 
